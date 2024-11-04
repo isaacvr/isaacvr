@@ -99,7 +99,7 @@ Soy músico, desarrollador de software, speedcuber e ingeniero en telecomunicaci
   <summary>Pre-universitario</summary>
   <ul>
     <li>Medalla de Bronce en el Concurso Nacional de Informática en 2012.</li>
-    <li>Medalla de Plata en el Concurso Nacional de Informática en 2013 y selección para las Olimpiadas Internacionales de Informática.</li>
+    <li>Medalla de Plata en el Concurso Nacional de Informática en 2013 y pre-selección para las Olimpiadas Internacionales de Informática.</li>
   </ul>
 </details>
 
